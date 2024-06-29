@@ -1,0 +1,2 @@
+BDE/html/*.html filter=lfs diff=lfs merge=lfs -text
+BDE/html/*.htm filter=lfs diff=lfs merge=lfs -text
